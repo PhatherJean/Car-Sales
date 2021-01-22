@@ -7,10 +7,6 @@
     "@testing-library/react": "^9.4.1",
     "@testing-library/user-event": "^7.2.1",
     "bulma": "^0.8.0",
-<<<<<<< HEAD
-=======
-    "node-sass": "^4.14.1",
->>>>>>> 1d7d195c9ba16999bd94b91c2f96c80c6babee96
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-redux": "^7.2.2",
